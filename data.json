@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Peras",
+    "price": 100,
+    "image": "https://img1.freepng.es/20180323/zgq/kisspng-asian-pear-stock-photography-olive-oil-fruit-pear-5ab4a702d1d512.8572050315217886748595.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Manzanas",
+    "price": 45,
+    "image": "https://e7.pngegg.com/pngimages/14/397/png-clipart-apple-apple-thumbnail.png"
+  },
+  {
+    "id": 3,
+    "name": "Naranjas",
+    "price": 70,
+    "image": "https://w7.pngwing.com/pngs/357/717/png-transparent-orange-fruit-orange-fruit-orange-clipart.png"
+  }
+]
